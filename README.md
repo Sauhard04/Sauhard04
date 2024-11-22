@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate software engineer and an enthusiastic pro
 - 🌱 I’m currently learning: DSA+WebDev
 - 👯 I’m looking to collaborate on: Websites optimization and development
 - 🤔 Ask me about: DSA,MERN stack,Computer Fundamentals,etc.
-- 💬 Feel free to reach out to me on ![linked in](https://www.linkedin.com/in/sauhard-kaushik-1a1797250/)
+- 💬 Feel free to reach out to me on [linked in](https://www.linkedin.com/in/sauhard-kaushik-1a1797250/)
 
 ## 🔧 Technologies & Tools
 
@@ -24,25 +24,27 @@ Here’s a list of the tools and technologies I’m comfortable with:
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sauhard04&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![My Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sauhard04&theme=vue-dark&hide_border=false)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sauhard04&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## 📌 My Latest Projects
 
 Here are some of the key projects I’ve worked on:
 
-### 1. [ATS Resume Scanner and Grader](https://github.com/Sauhard04/ATS-Resume-Scanner-and-Grader.git)
+### 1. [ATS Resume Scanner and Grader]
 - **Description**: A simple web based implementation for replicating the working of Applicant Trackin System Software.
 - **Technologies**: HTML, CSS, Javascript, React, Node.js, MongoDB
 - **Key Features**: Suggestions provided using Generative AI.
 - **GitHub Repo**: [Find my site here](https://github.com/Sauhard04/ATS-Resume-Scanner-and-Grader.git)
 
-### 2. [FarmFresh-Online Marketplace for local farm produce](link-to-project)
+### 2. [FarmFresh-Online Marketplace for local farm produce]
 - **Description**: A platform where farmer can list their produce and the end consumer can directly buy.
 - **Technologies**: Python, Flask, MySQL, Javascript, React, Node.js.
 - **Key Features**: Location of the seller and stock is displayed for simplifying the product searching facility.
 - **GitHub Repo**: [Find my site here](https://github.com/Sauhard04/FARMFRESH-APP.git)
 
-## 🧑‍💻 Codewars and Leetcode Stats
+## 🧑‍💻 Coding Stats
 
 If you're into competitive programming, check out my stats:
 
