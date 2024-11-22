@@ -1,3 +1,5 @@
+![](https://github.com/Sauhard04/Sauhard04/blob/6d256ba589b8f47d483a2e96c00e755f43c23da1/Screenshot%202024-11-22%20222349.png)
+
 # Hi, I'm Sauhard Kaushik 👋
 
 Welcome to my GitHub! I'm a passionate software engineer and an enthusiastic problem-solver, always looking for innovative solutions to real-world challenges. Whether it's building a full-stack application or diving deep into development fundamentals, I enjoy crafting clean, efficient, and scalable code.
