@@ -53,6 +53,7 @@ If you're into competitive programming, check out my stats:
 
 - [LeetCode](https://leetcode.com/sauhard_01)
 - [geeksforgeeks](https://www.geeksforgeeks.org/user/sauhard_04/)
+- [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/sauhard_04)](https://www.geeksforgeeks.org/user/sauhard_04/)
 - [Codeforces](https://codeforces.com/profile/sauhard2004)
 
 ## 👯‍♂️ Let's Connect!
