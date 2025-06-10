@@ -54,10 +54,10 @@ Here are some of the key projects I’ve worked on:
 - **Deployment**: [For Demo](https://devhubc-ebj6cdoal-sauhard04s-projects.vercel.app/)
 
 ### 4. [VibeeFy-AI Based Sound Therapist]
-- **Description**: A platform where developers, after authenticating, can connect to other developers and also get insights of other projects.
-- **Technologies**: HTML, Javascript, React, Node.js.
-- **Key Features**: Developers can connect and get insights to posts of other developers.
-- **Deployment**: [For Demo](https://devhubc-ebj6cdoal-sauhard04s-projects.vercel.app/)
+- **Description**: A web therapist that tracks the current mood of the user and makes him listen to appropriate songs after taking types of music aas choice.
+- **Technologies**: HTML, Javascript, React.
+- **Key Features**: Real time Emotion detection using face.
+- **Deployment**: [For Demo](https://vibee-fy.vercel.app/)
 
 ## 🧑‍💻 Coding Stats
 
