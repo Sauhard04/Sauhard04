@@ -2,12 +2,12 @@
 
 # Hi, I'm Sauhard Kaushik 👋
 
-Welcome to my GitHub! I'm a passionate software engineer and an enthusiastic problem-solver, always looking for innovative solutions to real-world challenges. Whether it's building a full-stack application or diving deep into development fundamentals, I enjoy crafting clean, efficient, and scalable code.
+Welcome to my GitHub! I'm a passionate software engineer and an enthusiastic problem-solver, always looking for innovative solutions to real-world challenges. Whether it's building a full-stack application or diving deep into development fundamentals, I enjoy crafting clean, efficient, and scalable code and find it easy to utilize the power of various AI agents.
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: EasyCode-One Step Destination For Many POTD's
-- 🌱 I’m currently learning: DSA+WebDev
+- 🔭 Currently working on: PrepHub-the exam preparation website
+- 🌱 I’m currently learning: DSA+MERN
 - 👯 I’m looking to collaborate on: Websites optimization and development
 - 🤔 Ask me about: DSA,MERN stack,Computer Fundamentals,etc.
 - 💬 Feel free to reach out to me on [linked in](https://www.linkedin.com/in/sauhard-kaushik-1a1797250/)
@@ -20,7 +20,7 @@ Here’s a list of the tools and technologies I’m comfortable with:
 - **Web Development**: HTML5, CSS3, JavaScript, React, Node.js, Express.
 - **Mobile Development**: React Native, Flutter
 - **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
-- **Machine Learning**: TensorFlow, Scikit-Learn, Seaborn, Matplotlib
+- **Machine Learning**: TensorFlow, Scikit-Learn, Matplotlib
 - **Version Control**: Git, GitHub, GitLab
 - **Tools**: VS Code, IntelliJ IDEA, Postman, Docker.
 
@@ -39,13 +39,25 @@ Here are some of the key projects I’ve worked on:
 - **Description**: A simple web based implementation for replicating the working of Applicant Trackin System Software.
 - **Technologies**: HTML, CSS, Javascript, React, Node.js, MongoDB
 - **Key Features**: Suggestions provided using Generative AI.
-- **GitHub Repo**: [Find my site here](https://github.com/Sauhard04/ATS-Resume-Scanner-and-Grader.git)
+- **Deployment**: [For Demo](https://ats-resume-scanner-and-grader.vercel.app/)
 
 ### 2. [FarmFresh-Online Marketplace for local farm produce]
 - **Description**: A platform where farmer can list their produce and the end consumer can directly buy.
 - **Technologies**: Python, Flask, MySQL, Javascript, React, Node.js.
 - **Key Features**: Location of the seller and stock is displayed for simplifying the product searching facility.
 - **GitHub Repo**: [Find my site here](https://github.com/Sauhard04/FARMFRESH-APP.git)
+
+### 3. [DevHub-A Networking Site For Developers]
+- **Description**: A platform where developers, after authenticating, can connect to other developers and also get insights of other projects.
+- **Technologies**: HTML, Javascript, React, Node.js.
+- **Key Features**: Developers can connect and get insights to posts of other developers.
+- **Deployment**: [For Demo](https://devhubc-ebj6cdoal-sauhard04s-projects.vercel.app/)
+
+### 4. [VibeeFy-AI Based Sound Therapist]
+- **Description**: A platform where developers, after authenticating, can connect to other developers and also get insights of other projects.
+- **Technologies**: HTML, Javascript, React, Node.js.
+- **Key Features**: Developers can connect and get insights to posts of other developers.
+- **Deployment**: [For Demo](https://devhubc-ebj6cdoal-sauhard04s-projects.vercel.app/)
 
 ## 🧑‍💻 Coding Stats
 
