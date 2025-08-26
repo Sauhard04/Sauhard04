@@ -35,29 +35,29 @@ Here’s a list of the tools and technologies I’m comfortable with:
 
 Here are some of the key projects I’ve worked on:
 
-### 1. [ATS Resume Scanner and Grader]
+### 1. ATS Resume Scanner and Grader
 - **Description**: A simple web based implementation for replicating the working of Applicant Trackin System Software.
 - **Technologies**: HTML, CSS, Javascript, React, Node.js, MongoDB
 - **Key Features**: Suggestions provided using Generative AI.
-- **Deployment**: [For Demo](https://ats-resume-scanner-and-grader.vercel.app/)
+- **Deployment**: [Try here](https://ats-resume-scanner-and-grader.vercel.app/)
 
-### 2. [FarmFresh-Online Marketplace for local farm produce]
+### 2. FarmFresh-Online Marketplace for local farm produce
 - **Description**: A platform where farmer can list their produce and the end consumer can directly buy.
 - **Technologies**: Python, Flask, MySQL, Javascript, React, Node.js.
 - **Key Features**: Location of the seller and stock is displayed for simplifying the product searching facility.
-- **GitHub Repo**: [Find my site here](https://github.com/Sauhard04/FARMFRESH-APP.git)
+- **GitHub Repo**: [Try here](https://github.com/Sauhard04/FARMFRESH-APP.git)
 
-### 3. [DevHub-A Networking Site For Developers]
+### 3. DevHub-A Networking Site For Developers
 - **Description**: A platform where developers, after authenticating, can connect to other developers and also get insights of other projects.
 - **Technologies**: HTML, Javascript, React, Node.js.
 - **Key Features**: Developers can connect and get insights to posts of other developers.
-- **Deployment**: [For Demo](https://devhubc-ebj6cdoal-sauhard04s-projects.vercel.app/)
+- **Deployment**: [Try here](https://devhubc-ebj6cdoal-sauhard04s-projects.vercel.app/)
 
-### 4. [VibeeFy-AI Based Sound Therapist]
-- **Description**: A web therapist that tracks the current mood of the user and makes him listen to appropriate songs after taking types of music aas choice.
+### 4. VibeeFy-AI Based Sound Therapist
+- **Description**: A web therapist that tracks the current mood of the user and makes him listen to appropriate songs after taking types of music as choice.
 - **Technologies**: HTML, Javascript, React.
 - **Key Features**: Real time Emotion detection using face.
-- **Deployment**: [For Demo](https://vibee-fy.vercel.app/)
+- **Deployment**: [Try here](https://vibee-fy.vercel.app/)
 
 ## 🧑‍💻 Coding Stats
 
