@@ -25,7 +25,16 @@ Here’s a list of the tools and technologies I’m comfortable with:
 - **Tools**: VS Code, IntelliJ IDEA, Postman, Docker.
 
 ## 📈 GitHub Stats
+  ## 🐍 GitHub Contribution Snake
 
+  <picture>
+    <source media="(max-width:600px)" srcset="https://raw.githubusercontent.com/Sauhard04/Sauhard04/output/github-contribution-grid-snake.svg">
+    <img 
+      alt="GitHub Contribution Snake" 
+      src="https://raw.githubusercontent.com/Sauhard04/Sauhard04/output/github-contribution-grid-snake.svg"
+      width="100%" style="max-width: 600px; height: auto; border-radius: 10px;"
+    />
+  </picture>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sauhard04&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![My Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sauhard04&theme=vue-dark&hide_border=false)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sauhard04&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
