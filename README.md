@@ -1,5 +1,4 @@
 ![snake gif](https://github.com/Sauhard04/Sauhard04/blob/output/github-contribution-grid-snake-dark.svg)
-
 ![](https://github.com/Sauhard04/Sauhard04/blob/6d256ba589b8f47d483a2e96c00e755f43c23da1/Screenshot%202024-11-22%20222349.png)
 
 # Hi, I'm Sauhard Kaushik 👋
