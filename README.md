@@ -26,9 +26,7 @@ Here’s a list of the tools and technologies I’m comfortable with:
 
 ## 📈 GitHub Stats
 ![Github Contribution Snake](https://github.com/Sauhard04/Sauhard04/blob/output/github-contribution-grid-snake-dark.svg)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sauhard04&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![My Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sauhard04&theme=vue-dark&hide_border=false)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sauhard04&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=Sauhard04&theme=dard_dimmed)
 
 ## 📌 My Latest Projects
