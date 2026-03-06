@@ -1,4 +1,3 @@
-![snake gif](https://github.com/Sauhard04/Sauhard04/blob/output/github-contribution-grid-snake-dark.svg)
 ![](https://github.com/Sauhard04/Sauhard04/blob/6d256ba589b8f47d483a2e96c00e755f43c23da1/Screenshot%202024-11-22%20222349.png)
 
 # Hi, I'm Sauhard Kaushik 👋
@@ -26,6 +25,7 @@ Here’s a list of the tools and technologies I’m comfortable with:
 - **Tools**: VS Code, IntelliJ IDEA, Postman, Docker.
 
 ## 📈 GitHub Stats
+![Github Contribution Snake](https://github.com/Sauhard04/Sauhard04/blob/output/github-contribution-grid-snake-dark.svg)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sauhard04&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![My Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sauhard04&theme=vue-dark&hide_border=false)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sauhard04&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
